@@ -42,8 +42,3 @@ Los comandos más comunes que usarás son:
 - `git commit -m "Mensaje descriptivo` para hacer un commit con tu mensaje.
 - `git push origin rama-nombre` para subir tus cambios al repositorio remoto.
 
-├── data/                  # Bases de datos oficiales (ej. afluencia, ingresos, Ecobici 2026-01.csv)
-├── notebooks/             # Notebooks de Jupyter para exploración y análisis (EDA)
-├── scripts/               # Scripts de Python para procesamiento y limpieza de datos
-├── outputs/               # Gráficas, mapas y reportes generados
-└── README.md              # Documentación del proyecto
