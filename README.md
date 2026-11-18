@@ -8,9 +8,9 @@ Repositorio dedicado al análisis de la movilidad urbana y los flujos financiero
 ---
 
 ## Pregunta de Investigación Principal
-> **¿Cómo impacta el tipo de pago (prepago vs. boleto/gratuidad) en la distribución diaria de pasajeros en las líneas del Metro y Metrobús?**
-> **¿Existe una relación estacional o semanal clara en los patrones de uso de Ecobici durante enero de 2026 según el género y la edad de los usuarios?**
-> **¿Cuál es la evolución y correlación entre los ingresos del Metro por tipo de boleto/tarifa y la afluencia total de usuarios a lo largo de los años?**
+- **¿Cómo impacta el tipo de pago (prepago vs. boleto/gratuidad) en la distribución diaria de pasajeros en las líneas del Metro y Metrobús?**
+- **¿Existe una relación estacional o semanal clara en los patrones de uso de Ecobici durante enero de 2026 según el género y la edad de los usuarios?**
+- **¿Cuál es la evolución y correlación entre los ingresos del Metro por tipo de boleto/tarifa y la afluencia total de usuarios a lo largo de los años?**
 
 
 ## Fuentes de información
