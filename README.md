@@ -29,8 +29,10 @@ Repositorio dedicado al análisis de la movilidad urbana y los flujos financiero
 
 
 
+
+
 ## Comandos Git de referencia
-Para contribuir a nuestro proyecto, sigue estos pasos:
+Para contribuir al proyecto:
 1. Clona el repositorio con el comando: `git clone https://github.com/Juan-Gallegos7/Movilidad-Urbana-del-Sistema-de-Transporte-CDMX.git`.
 2. Ingresa a la carpeta del proyecto: `cd Movilidad-Urbana-del-Sistema-de-Transporte-CDMX`.
 3. Crea una nueva rama para tus cambios: `git branch rama-nombre`.
@@ -41,4 +43,10 @@ Los comandos más comunes que usarás son:
 - `git add .` para agregar todos los cambios al próximo commit.
 - `git commit -m "Mensaje descriptivo` para hacer un commit con tu mensaje.
 - `git push origin rama-nombre` para subir tus cambios al repositorio remoto.
+
+
+## Instalación de librerías desde `requirements`
+En la terminal de VS Code (dentro de la carpeta del proyecto y con tu entorno activo):
+```bash
+pip install -r requirements_movilidad_cdmx.txt
 
