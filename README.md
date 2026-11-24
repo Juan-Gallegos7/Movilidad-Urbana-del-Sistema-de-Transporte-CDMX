@@ -21,7 +21,7 @@ Repositorio dedicado al análisis de la movilidad urbana y los flujos financiero
 ##  Equipo de Desarrollo
 - **Ricardo Martínez Corrales**
 - **Juan Ernesto Gallegos Juárez**
-- **Issac Martín Cerón García**
+- **Isaac Martín Cerón García**
 - **Leonardo Guerrero Mendoza**
 - **Arantxa Trinidad Alva Pacheco**
 
