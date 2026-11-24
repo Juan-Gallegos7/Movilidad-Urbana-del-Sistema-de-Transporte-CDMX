@@ -29,15 +29,11 @@ Repositorio dedicado al análisis de la movilidad urbana y los flujos financiero
 ## Registro de contribuciones
 | Integrante | Aportación |
 |---|---|
-| Arantxa Trinidad Alva Pacheco | Problemas de calidad y decisiones de limpieza o
-transformación |
-| Ricardo Martínez Corrales | Contexto del problema, descripción de los datos,
-preguntas de investigación |
-| Isaac Martín Cerón García | Manipulación, organización del código y
-reproducibilidad  |
+| Arantxa Trinidad Alva Pacheco | Problemas de calidad y decisiones de limpieza o transformación |
+| Ricardo Martínez Corrales | Contexto del problema, descripción de los datos, preguntas de investigación |
+| Isaac Martín Cerón García | Manipulación, organización del código y reproducibilidad |
 | Leonardo Guerrero Mendoza | Estadística descriptiva y exploración |
-| Juan Ernesto Gallegos Juárez | Visualizaciones, hallazgos, conclusiones,
-limitaciones y líneas futuras |
+| Juan Ernesto Gallegos Juárez | Visualizaciones, hallazgos, conclusiones, limitaciones y líneas futuras |
 
 
 
